@@ -112,8 +112,8 @@ main {
 }
 
 .ice-cream {
-  width: 13rem;
-  height: 15rem;
+  width: 15rem;
+  height: 17rem;
   border-radius: 5px;
   border: double 2px #616161;
   background-color: #fff;  
@@ -142,7 +142,6 @@ main {
   color: #fff;
   height: 1.8rem;
 }
-
 
 footer {
   width: 100%;

@@ -9,7 +9,7 @@ export const iceCreams = [
     product: "Vainilla Clásica",
     id: 2,
     price: 3.00,
-    image: "https://example.com/images/vainilla-clasica.jpg"
+    image: "assets/images/vainilla.jpg"
   },
   {
     product: "Fresa Deliciosa",
@@ -21,42 +21,42 @@ export const iceCreams = [
     product: "Mango Tropical",
     id: 4,
     price: 3.75,
-    image: "https://example.com/images/mango-tropical.jpg"
+    image: "assets/images/mango.jpg"
   },
   {
     product: "Cookies & Cream",
     id: 5,
     price: 4.00,
-    image: "https://example.com/images/cookies-cream.jpg"
+    image: "assets/images/galletas.jpg"
   },
   {
     product: "Pistacho Gourmet",
     id: 6,
     price: 3.50,
-    image: "https://example.com/images/pistacho-gourmet.jpg"
+    image: "assets/images/pistacho.jpg"
   },
   {
     product: "Caramelo Salado",
     id: 7,
     price: 3.60,
-    image: "https://example.com/images/caramelo-salado.jpg"
+    image: "assets/images/caramelo.jpg"
   },
   {
     product: "Café Expreso",
     id: 8,
     price: 3.80,
-    image: "https://example.com/images/cafe-expreso.jpg"
+    image: "assets/images/cafe.jpg"
   },
   {
     product: "Menta con Chocolate",
     id: 9,
     price: 3.40,
-    image: "https://example.com/images/menta-chocolate.jpg"
+    image: "assets/images/menta.jpg"
   },
   {
     product: "Frambuesa Silvestre",
     id: 10,
     price: 3.70,
-    image: "https://example.com/images/frambuesa-silvestre.jpg"
+    image: "assets/images/frambuesa.jpg"
   }
 ]
